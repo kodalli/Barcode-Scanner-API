@@ -1,0 +1,226 @@
+{
+    "DDB": {
+        "val": "Card Revision Date",
+        "ver": "Version 8"
+    },
+    "DAI": {
+        "val": "City",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DDA": {
+        "val": "Compliance Type",
+        "ver": "Version 8"
+    },
+    "DBJ": {
+        "val": "License Number",
+        "ver": "Version 1"
+    },
+    "DAQ": {
+        "val": "License Number",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DBB": {
+        "val": "Date of Birth",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DCF": {
+        "val": "Document ID",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DBA": {
+        "val": "Expiration Date",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DAY": {
+        "val": "Eye Color",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DBP": {
+        "val": "First Name Alias",
+        "ver": "Version 1"
+    },
+    "DBG": {
+        "val": "First Name Alias",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DDF": {
+        "val": "First Name Truncation",
+        "ver": "Version 2-4-5-6-7-8"
+    },
+    "DAC": {
+        "val": "First Name",
+        "ver": "Version 1-4-5-6-7-8"
+    },
+    "DCT": {
+        "val": "First Name",
+        "ver": "Version 2-3"
+    },
+    "DAA": {
+        "val": "Full Name",
+        "ver": "Version 1"
+    },
+    "DBC": {
+        "val": "Sex",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DAZ": {
+        "val": "Hair Color",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DDC": {
+        "val": "HAZMAT Endorsement Expiration Date",
+        "ver": "Version 8"
+    },
+    "DAU": {
+        "val": "Height (inches)",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DCK": {
+        "val": "Inventory Control",
+        "ver": "Version 3-4-5-6-7-8"
+    },
+    "DBD": {
+        "val": "Issue Date",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DCG": {
+        "val": "Issuing Country",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DBO": {
+        "val": "Last Name Alias",
+        "ver": "Version 1"
+    },
+    "DBN": {
+        "val": "Last Name Alias",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DDE": {
+        "val": "Last Name Truncation",
+        "ver": "Version 2-4-5-6-7-8"
+    },
+    "DAB": {
+        "val": "Last Name",
+        "ver": "Version 1"
+    },
+    "DCS": {
+        "val": "Last Name",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DDD": {
+        "val": "Limited Duration Document Indicator",
+        "ver": "Version 8"
+    },
+    "DDG": {
+        "val": "Middle Name Truncation",
+        "ver": "Version 2-4-5-6-7-8"
+    },
+    "DAD": {
+        "val": "Middle Name",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DCU": {
+        "val": "Name Suffix",
+        "ver": "Version 2-3-4-5-6-7-8"
+    },
+    "DDK": {
+        "val": "Organ Donor Indicator",
+        "ver": "Version 8"
+    },
+    "DCI": {
+        "val": "Place of Birth",
+        "ver": "Version 3-4-5-6-7-8"
+    },
+    "DAK": {
+        "val": "Postal Code",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DCL": {
+        "val": "Race / ethnicity",
+        "ver": "Version 8"
+    },
+    "DAH": {
+        "val": "Second Street Address",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DCQ": {
+        "val": "Specific endorsement code description",
+        "ver": "Version 8"
+    },
+    "DCD": {
+        "val": "Specific Endorsement Codes",
+        "ver": "Version 8"
+    },
+    "DCR": {
+        "val": "Specific restriction code description",
+        "ver": "Version 8"
+    },
+    "DCB": {
+        "val": "Specific Restriction Codes",
+        "ver": "Version 8"
+    },
+    "DCA": {
+        "val": "Specific Vehicle Class",
+        "ver": "Version 8"
+    },
+    "DCP": {
+        "val": "Specific vehicle classification description",
+        "ver": "Version 8"
+    },
+    "DCN": {
+        "val": "Standard endorsement code",
+        "ver": "Version 8"
+    },
+    "DCO": {
+        "val": "Standard restriction code",
+        "ver": "Version 8"
+    },
+    "DCM": {
+        "val": "Standard vehicle classification",
+        "ver": "Version 8"
+    },
+    "DAJ": {
+        "val": "State",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DAG": {
+        "val": "Street Address",
+        "ver": "Version 1-2-3-4-5-6-7-8"
+    },
+    "DBR": {
+        "val": "Suffix Alias",
+        "ver": "Version 1"
+    },
+    "DBS": {
+        "val": "Suffix Alias",
+        "ver": "Version 3-4-5-6-7-8"
+    },
+    "DDH": {
+        "val": "Under 18 Until",
+        "ver": "Version 8"
+    },
+    "DDI": {
+        "val": "Under 19 Until",
+        "ver": "Version 8"
+    },
+    "DDJ": {
+        "val": "Under 21 Until",
+        "ver": "Version 8"
+    },
+    "DDL": {
+        "val": "Veteran Indicator",
+        "ver": "Version 8"
+    },
+    "DAX": {
+        "val": "Weight (kilograms)",
+        "ver": "Version 8"
+    },
+    "DAW": {
+        "val": "Weight (pounds)",
+        "ver": "Version 8"
+    },
+    "DCE": {
+        "val": "Weight Range",
+        "ver": "Version 8"
+    }
+}
