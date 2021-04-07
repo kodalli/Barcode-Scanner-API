@@ -22,7 +22,7 @@ class BCR:
         reader = BarCodeReader()
         results = reader.decode_array(img)
 
-        # print("results ", results)
+        print("results ", results)
 
         if 'raw' in results[0]:
             result_string = results[0]['raw'].decode("utf-8")
@@ -45,7 +45,7 @@ class BCR:
 
             return json.dumps(barcode_dict, indent=4, sort_keys=False)
         else:
-            print("Could not detect barcode")
+            return "Could not detect barcode"
 
 
 if __name__ == "__main__":

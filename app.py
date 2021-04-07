@@ -15,6 +15,7 @@ def index():
 @app.route('/upload-image', methods=["GET", "POST"])
 def upload_image():
     print(request.method)
+    print(request.data)
     res = ""
     if request.method == "POST":
 
@@ -31,6 +32,7 @@ def upload_image():
             except:
                 print("Could not read barcode")
 
+            return res
             # image.save(os.path.join(
             #     app.config['IMAGE_UPLOADS'], image.filename))
 
