@@ -5,10 +5,9 @@ import numpy as np
 
 
 class BCR:
-    def __init__(self):
-        pass
 
-    def decode_file(self, file):
+    @staticmethod
+    def decode_file(file):
         response = file.read()
         # frame = cv2.imdecode(response)
         frame = cv2.imdecode(np.fromstring(
@@ -16,9 +15,10 @@ class BCR:
 
         # print("frame ", frame)
 
-        return self.decode_array(frame)
+        return BCR.decode_array(frame)
 
-    def decode_array(self, img):
+    @staticmethod
+    def decode_array(img):
         reader = BarCodeReader()
         results = reader.decode_array(img)
 

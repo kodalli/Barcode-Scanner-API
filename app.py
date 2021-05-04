@@ -1,10 +1,10 @@
 from flask import Flask, render_template, request, redirect
 import os
-from src.Barcode_Data_Extractor import BCR
+from src.Barcode_Data_Extractor import BCR as bcr
 
 app = Flask(__name__)
 
-# app.config['IMAGE_UPLOADS'] = r'C:\Users\surya\Documents\Projects\Barcode-Scanner-API\static\img\uploads'
+# app.config['IMAGE_UPLOADS'] = r'static\img\uploads'
 
 
 @app.route('/')
@@ -26,7 +26,6 @@ def upload_image():
             print(image)
 
             try:
-                bcr = BCR()
                 res = bcr.decode_file(image)
                 print(res)
             except:
